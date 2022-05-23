@@ -1,0 +1,12 @@
+ O QUE É HTML? 
+
+- São os códigos que são digitados e enviados para o navegador traduzir (interpretar) visualmente na tela do dispositivo. 
+- Quando clicamos com o botão direito do mouse é possível visualizar o código fonte ou inspecionar pra ver e editar os códigos. 
+- Ao clicar em Inspecionar na aba Elements é possível ver de forma mais organizada e legível o código fonte.
+
+
+QUAL A DIFERENÇA DE HTML E CSS? 
+
+- HTML -> PARTE ESTRUTURAL DA PÁGINA 
+
+- CSS -> PARTE ESTILIZADA DA PÁGINA 
